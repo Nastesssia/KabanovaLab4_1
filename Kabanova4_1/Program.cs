@@ -65,7 +65,7 @@ namespace Kabanova4_1
                 {
                     result += res[i];
                 }
-                Console.WriteLine($"{result}");
+                Console.WriteLine($"Число в шестнадцатиричной системе = {result}");
             }
             catch (Exception ex)
             {
